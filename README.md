@@ -20,7 +20,7 @@ npm run build
 npm run start
 ```
 ```shell
-npm run start
+npx playwright test --ui
 ```
 
 ### I'll see you in the next one! 🚀
